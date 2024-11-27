@@ -1,0 +1,12 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "ciruja23",
+        "database": "clinica"
+    },
+
+    "server": {
+        "port": 3000
+    }
+}
